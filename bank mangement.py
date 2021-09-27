@@ -1,7 +1,6 @@
+#bank management application
 import pickle
-
 import os
-
 import pathlib
 
 
